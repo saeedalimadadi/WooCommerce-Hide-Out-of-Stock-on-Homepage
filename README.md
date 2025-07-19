@@ -1,0 +1,1 @@
+# WooCommerce-Hide-Out-of-Stock-on-Homepage
